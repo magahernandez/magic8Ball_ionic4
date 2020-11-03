@@ -1,7 +1,8 @@
 {
-  "name": "magic8Ball2",
+  "name": "Magic Ball",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "capacitor": {}
   },
   "type": "angular"
 }

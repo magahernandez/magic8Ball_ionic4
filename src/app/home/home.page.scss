@@ -1,1 +1,22 @@
 
+ion-card{
+    position: relative;
+    top: calc( 50% - 44px);
+    transform: translateY(-50%);
+}
+
+ion-card-content{
+    padding: 0px;
+}
+
+ion-content{
+    --background: black !important;
+}
+
+.ion-card-header {
+    color: white;
+}
+
+ion-toolbar{
+    --background: black;
+}
